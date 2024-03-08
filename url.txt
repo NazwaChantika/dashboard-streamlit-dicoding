@@ -1,3 +1,1 @@
-https://share.streamlit.io/
-
-https://dashboardpy-analys.streamlit.app/
+https://dashboardpy-4ttqxcsgwdc9kamfuukoii.streamlit.app/
